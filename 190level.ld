@@ -11,7 +11,7 @@ paths=95
 selectorX=17
 selectorY=9
 specials=0
-unlockcount=5
+unlockcount=6
 [levels]
 0clearcolour=2,3
 0colour=2,3
