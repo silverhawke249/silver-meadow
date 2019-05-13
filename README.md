@@ -1,4 +1,4 @@
-# silver-meadows
+# Silver Meadow
 A custom level pack for Baba Is You.
 
 ## Installing
