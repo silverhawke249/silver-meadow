@@ -1,0 +1,8 @@
+[tiles]
+changed=
+
+[general]
+name=abstract
+paletteroot=1
+palette=abstract.png
+

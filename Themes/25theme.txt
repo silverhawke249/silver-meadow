@@ -1,0 +1,11 @@
+[tiles]
+changed=object079,
+object079_colour=5,3
+object079_root=0
+object079_image=tree2
+
+[general]
+name=island
+paletteroot=1
+palette=swamp.png
+
