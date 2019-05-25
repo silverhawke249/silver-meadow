@@ -6,6 +6,8 @@ Download the latest release, extract to `[...]/Baba Is You/Data/Worlds/`.
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.0.2
+  - Adjustments on a level and main map, added Sudoku levels.
 - 1.0.1
   - Minor adjustments on main map and a sublevel.
 - 1.0.0
