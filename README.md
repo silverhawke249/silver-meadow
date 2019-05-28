@@ -6,6 +6,8 @@ Download the latest release, extract to `[...]/Baba Is You/Data/Worlds/`.
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.0.5
+  - Some adjustments to prevent potentially softlocking the game.
 - 1.0.4
   - Adjustment for Dependence.
 - 1.0.3m
