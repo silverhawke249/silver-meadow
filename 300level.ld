@@ -483,8 +483,11 @@ unlockcount=0
 1Z=0
 [tiles]
 changed=object063,object051,object040,object028,
-object063_image=what
+object063_activecolour=3,2
+object063_colour=3,1
+object063_image=text_hawke
 object063_name=text_hawke
+object063_root=0
 object051_image=hawke
 object051_name=hawke
 object051_root=0
