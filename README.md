@@ -7,7 +7,7 @@ Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
 - 1.0.7
-  - Minor adjustments.
+  - Minor adjustments -- it is now possible to obtain a flower from Babadoku.
 - 1.0.6
   - Object appearance adjustment.
 - 1.0.5
