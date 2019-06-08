@@ -2,7 +2,7 @@
 customparent=
 levels=0
 leveltype=0
-mapid=secret
+mapid=<empty>
 music=baba
 name=conclusion
 palette=default.png

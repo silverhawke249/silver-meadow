@@ -6,6 +6,8 @@ Download the latest release, extract to `[...]/Baba Is You/Data/Worlds/`.
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.0.8
+  - Aesthetic changes.
 - 1.0.7
   - Minor adjustments -- it is now possible to obtain a flower from Babadoku.
 - 1.0.6
