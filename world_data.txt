@@ -6,4 +6,5 @@ name=silver meadow
 start=100level
 themecount=12
 -- level pack created by silverhawke
--- twitter- @fluffderg
+-- twitter => @fluffderg
+-- repo    => https://github.com/silverhawke249/silver-meadow
