@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.0
+  - 5 new levels introduced! Busy Beaver replaced with Skull Beam.
 - 1.1.1
   - Global Warming is now replaced with Shazam. Level adjustments to Baton Pass, Apparition.
 - 1.1.0
