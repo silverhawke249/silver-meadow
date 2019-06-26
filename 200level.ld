@@ -342,7 +342,7 @@ unlockcount=5
 27Y=12
 27Z=0
 [tiles]
-changed=object019,object079,object067,object031,object055,object043,object017,object110,object065,object020,object058,object011,object098,object004,
+changed=object019,object079,object067,object031,object055,object043,object017,object110,object065,object020,object058,object011,object098,object004,object108,
 object019_activecolour=4,2
 object019_colour=4,1
 object019_image=text_ufo
@@ -387,3 +387,8 @@ object098_image=dust
 object004_colour=6,4
 object004_image=dust
 object004_layer=15
+object108_activecolour=255,255
+object108_colour=0,2
+object108_image=cursor
+object108_name=cursor
+object108_unittype=object

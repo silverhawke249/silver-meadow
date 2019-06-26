@@ -771,10 +771,15 @@ total=1
 0Y=13
 0Z=0
 [tiles]
-changed=object026,object065,object071,object090,object079,
+changed=object026,object065,object071,object090,object079,object108,
 object026_image=door_map
 object026_root=0
 object065_colour=0,0
 object071_colour=0,0
 object090_colour=2,3
 object079_colour=5,0
+object108_activecolour=255,255
+object108_colour=4,2
+object108_image=cursor
+object108_name=cursor
+object108_unittype=object
