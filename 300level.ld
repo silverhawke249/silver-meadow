@@ -504,7 +504,7 @@ unlockcount=0
 1Y=9
 1Z=0
 [tiles]
-changed=object063,object051,object040,object028,
+changed=object063,object051,object040,object028,object108,
 object063_activecolour=3,2
 object063_colour=3,1
 object063_image=text_hawke
@@ -526,3 +526,8 @@ object028_image=text_jelly
 object028_name=text_jelly
 object028_root=0
 object028_type=0
+object108_activecolour=255,255
+object108_colour=0,3
+object108_image=cursor
+object108_name=cursor
+object108_unittype=object
