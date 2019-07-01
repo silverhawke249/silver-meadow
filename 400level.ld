@@ -97,13 +97,8 @@ unlockcount=5
 1Y=12
 1Z=0
 [tiles]
-changed=object098,object061,object108,
+changed=object098,object061,
 object098_image=text_zero
 object098_root=0
 object061_image=text_one
 object061_root=0
-object108_activecolour=255,255
-object108_colour=4,2
-object108_image=cursor
-object108_name=cursor
-object108_unittype=object

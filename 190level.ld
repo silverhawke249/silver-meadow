@@ -869,9 +869,5 @@ unlockcount=6
 92Y=18
 92Z=0
 [tiles]
-changed=object108,
-object108_activecolour=255,255
-object108_colour=2,3
-object108_image=cursor
-object108_name=cursor
-object108_unittype=object
+changed=object150,
+object150_colour=2,3
