@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.2
+  - Level adjustments for Turnstile Jumper, Event Horizon, and Shazam.
 - 1.2.1
   - Applying map adjustment from betatest version. Level adjustments for Dependence.
 - 1.2.0
