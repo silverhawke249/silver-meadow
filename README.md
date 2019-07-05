@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.3
+  - Level adjustments for Bottomless River, Apparition, Few Ask Hints, and Maritime Exploration.
 - 1.2.2
   - Level adjustments for Turnstile Jumper, Event Horizon, and Shazam.
 - 1.2.1
