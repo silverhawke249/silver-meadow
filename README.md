@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.4
+  - Level adjustments for Safekeeping, Crossing, One Way Street, Rule Making, Event Horizon, and Turnstile Jumper.
 - 1.2.3
   - Level adjustments for Bottomless River, Apparition, Few Ask Hints, and Maritime Exploration.
 - 1.2.2
