@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.6
+  - Level adjustments for One Way Street, Disruption, Abyss, Event Horizon, Maritime Exploration.
 - 1.2.5
   - Level adjustments for Abyss and Apparition.
 - 1.2.4
