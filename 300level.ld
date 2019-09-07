@@ -511,11 +511,11 @@ unlockcount=0
 39Y=16
 39Z=0
 [specials]
-0data=level,392level,2,9,2
+0data=level,392level,2,9
 0X=3
 0Y=3
 0Z=0
-1data=level,391level,2,3,2
+1data=level,391level,2,3
 1X=27
 1Y=9
 1Z=0
