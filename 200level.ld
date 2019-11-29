@@ -12,6 +12,7 @@ selectorX=8
 selectorY=9
 specials=0
 unlockcount=5
+unlocklevels=100level
 [levels]
 0clearcolour=0,2
 0colour=0,2
