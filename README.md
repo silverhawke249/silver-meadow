@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.2.8
+  - Level adjustments for Big Bang. Minor tweaks on overworlds. Add levelpack icon.
 - 1.2.7
   - Level adjustments for Disruption, Abyss, Apparition, Maritime Exploration, and Babadoku.
 - 1.2.6
