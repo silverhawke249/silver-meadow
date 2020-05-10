@@ -1,10 +1,11 @@
 [levels]
-levelid=53
+levelid=67
 [general]
 firstlevel=000level
 name=silver meadow
 start=100level
 themecount=12
+author=silverhawke
 -- level pack created by silverhawke
 -- twitter => @fluffderg
 -- repo    => https://github.com/silverhawke249/silver-meadow
