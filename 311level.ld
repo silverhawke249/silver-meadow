@@ -15,4 +15,4 @@ unlockcount=0
 [tiles]
 changed=object079,
 object079_image=tree2
-object079_root=0
+object079_root=1
