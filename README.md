@@ -7,10 +7,15 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.3.0
+  - Redundant sprites removed.
+  - Fixes applied to Abyss and Few Ask Hints. The levels are now playable in the latest beta version.
 - 1.2.9
-  - Level adjustments for Indestructible Door, Few Ask Hints, and Conclusion. Added author field in preparation of built-in level sharing.
+  - Level adjustments for Indestructible Door, Few Ask Hints, and Conclusion.
+  - Added author field in preparation of built-in level sharing.
 - 1.2.8
-  - Level adjustments for Big Bang. Minor tweaks on overworlds. Added levelpack icon.
+  - Level adjustments for Big Bang. Minor tweaks on overworlds.
+  - Added levelpack icon.
 - 1.2.7
   - Level adjustments for Disruption, Abyss, Apparition, Maritime Exploration, and Babadoku.
 - 1.2.6
@@ -24,15 +29,19 @@ Custom Levels and Level Editor must be enabled first.
 - 1.2.2
   - Level adjustments for Turnstile Jumper, Event Horizon, and Shazam.
 - 1.2.1
-  - Applying map adjustment from betatest version. Level adjustments for Dependence.
+  - Applying map adjustment from betatest version.
+  - Level adjustments for Dependence.
 - 1.2.0
-  - 5 new levels introduced! Busy Beaver replaced with Skull Beam.
+  - 5 new levels introduced!
+  - Busy Beaver replaced with Skull Beam.
 - 1.1.1
-  - Global Warming is now replaced with Shazam. Level adjustments to Baton Pass, Apparition.
+  - Global Warming is now replaced with Shazam.
+  - Level adjustments to Baton Pass, Apparition.
 - 1.1.0
-  - Level adjustments to: Skullnake, Time Travel, Elevator.
+  - Level adjustments for Skullnake, Time Travel, and Elevator.
 - 1.0.9
-  - Path fixes and adjustments. Level name change: Salvage → Recovery.
+  - Path fixes and adjustments.
+  - Level name change: Salvage → Recovery.
 - 1.0.8
   - Aesthetic changes.
 - 1.0.7
@@ -48,7 +57,8 @@ Custom Levels and Level Editor must be enabled first.
 - 1.0.3
   - Adjustment on impossible Sudoku level.
 - 1.0.2
-  - Adjustments on a level and main map, added Sudoku levels.
+  - Adjustments on a level and main map.
+  - Added Sudoku levels.
 - 1.0.1
   - Minor adjustments on main map and a sublevel.
 - 1.0.0
