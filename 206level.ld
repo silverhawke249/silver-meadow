@@ -13,4 +13,9 @@ selectorY=-1
 specials=0
 unlockcount=0
 [tiles]
-changed=
+changed=object051,
+object051_colour=1,0
+object051_image=edge
+object051_layer=21
+object051_root=0
+object051_tiling=-1
