@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.3.1
+  - Hotfixed Boundary Condition due to some changes to the game engine.
 - 1.3.0
   - Redundant sprites removed.
   - Fixes applied to Abyss and Few Ask Hints. The levels are now playable in the latest beta version.
