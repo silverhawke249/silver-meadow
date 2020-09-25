@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.3.3
+  - Hotfix for Abyss.
 - 1.3.2
   - Level adjustments and fixes for Abyss and Few Ask Hints.
 - 1.3.1
