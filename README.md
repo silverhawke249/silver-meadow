@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.3.4
+  - Hotfixed Big Bang due to changes to the game engine.
 - 1.3.3
   - Hotfix for Abyss.
 - 1.3.2
