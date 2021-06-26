@@ -7,6 +7,8 @@ Alternatively, clone the repository to the same folder and pull new updates when
 Custom Levels and Level Editor must be enabled first.
 
 ## Changelog
+- 1.3.6
+  - Fixes for letter-based levels.
 - 1.3.5
   - Lowered area clear requirement for Lonely Text and Babadoku.
 - 1.3.4
