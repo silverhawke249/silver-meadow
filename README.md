@@ -4,9 +4,11 @@
 Download the latest release, extract to `[...]/Baba Is You/Data/Worlds/`.
 Alternatively, clone the repository to the same folder and pull new updates when necessary.
 
-Custom Levels and Level Editor must be enabled first.
+100% completion requires 60/3/1.
 
 ## Changelog
+- 1.3.7
+  - Added 100% completion requirements.
 - 1.3.6
   - Fixes for letter-based levels.
 - 1.3.5
